@@ -1,3 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h1 align="center">Hi 👋, I'm Hanyang Chen</h1>
+<h3 align="center">A java coder from China</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
